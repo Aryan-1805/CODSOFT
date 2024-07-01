@@ -4,7 +4,6 @@ using namespace std;
 
 void displayMenu() {
     cout << "Simple Calculator\n";
-    cout << "=================\n";
     cout << "1. Addition\n";
     cout << "2. Subtraction\n";
     cout << "3. Multiplication\n";
